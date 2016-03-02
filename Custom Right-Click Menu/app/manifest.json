@@ -73,7 +73,7 @@
           "default_icon": {                    
             "16": "icon-supersmall.png",          
             "48": "icon-small.png"
-            "128":"icon-large.png"
+            "128": "icon-large.png"
           },
           "default_title": "Custom Menu",      
           "default_popup": "options.html"        
