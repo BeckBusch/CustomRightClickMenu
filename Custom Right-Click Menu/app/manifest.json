@@ -68,7 +68,7 @@
 		"16": "icon-supersmall.png",
 		"48": "icon-small.png",
 		"128": "icon-large.png"
-	}
+	},
 
 	"browser_action": {
           "default_icon": {
